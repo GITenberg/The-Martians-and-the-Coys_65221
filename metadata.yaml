@@ -1,0 +1,27 @@
+_repo: The-Martians-and-the-Coys_65221
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - Reynolds, Dallas McCord
+    - Mallory, Mark
+    - McCord, Guy
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: https://en.wikipedia.org/wiki/Mack_Reynolds
+description: ''
+gutenberg_issued: '2021-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65221'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Martians and the Coys
+url: http://www.gutenberg.org/ebooks/65221
